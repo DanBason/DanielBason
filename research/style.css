@@ -38,5 +38,22 @@ h2{
     text-align: center;
 }
 .home-page{
-    align-items: center;
+    font-size:42px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.column-left{
+    width: 40px;
+
+}
+.column-middle{
+    width: 40px;
+    
+}
+.column-right{
+    width: 40px;
+    
+}
+.row{
+    columns: 50px 3;
 }
