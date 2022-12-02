@@ -32,8 +32,11 @@ h2{
     font-size: xx-large;
     text-align: center;
 }
-.research-header{
+.initial-research-header{
     color: blue;
     font-size: xx-large;
     text-align: center;
+}
+.home-page{
+    align-items: center;
 }
