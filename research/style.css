@@ -1,16 +1,39 @@
-p {
-    margin-top: 30px;
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-bottom: 20px;
-}
-h1{
+*{
 
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+link{
+    color: rgb(122, 122, 247);
+}
+p {
+
+    color: #89CFF0;
+   
+}
+
+body {
+
+    background-color: whitesmoke;
+}
+
+.text-start {
+    color: blue;
+}
+h2{
+    color: rgb(34, 3, 143);
+}
+.container-fluid {
+   color: azure;
+}
+.root-cause-header{
+    color: blue;
+    font-size: xx-large;
     text-align: center;
 }
-div.text{
-    column-count: 2;
-    column-gap: 30px;
-    column-width: 100px;
-    column-fill: auto;
+.research-header{
+    color: blue;
+    font-size: xx-large;
+    text-align: center;
 }
