@@ -1,0 +1,29 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    
+    
+
+}
+p{
+    color: rgb(235, 240, 242);
+}
+.container{
+    background-color: rgb(66, 62, 62);
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+body{
+    background-image: url(bootstrap.png);
+}
